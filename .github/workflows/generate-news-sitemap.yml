@@ -22,8 +22,16 @@ jobs:
       - name: Generate news-sitemap.xml
         run: python generate_news_sitemap.py
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update news-sitemap.xml"
-          file_pattern: news-sitemap.xml
+      - name: Commit and push changes (if there are any)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain news-sitemap.xml)" ]; then
+            git add news-sitemap.xml
+            git commit -m "Update news-sitemap.xml"
+            git push
+          else
+            echo "No changes to commit."
+          fi
