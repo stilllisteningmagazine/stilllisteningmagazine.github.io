@@ -1,0 +1,29 @@
+name: Generate Google News Sitemap
+
+on:
+  schedule:
+    # Run every hour - you can relax this later if you want
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate news-sitemap.xml
+        run: python generate_news_sitemap.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update news-sitemap.xml"
+          file_pattern: news-sitemap.xml
