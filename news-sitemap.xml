@@ -1,25 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/interviews/sword-ii-interview</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-28T13:51:00Z</news:publication_date>
-      <news:title>Sword II on Electric Hour, DIY Recording and Finding Light in a Dark America</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/maddie-ashman-releases-double-dingle-jaded-in-autumn-my-heart-breaks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-28T13:29:52Z</news:publication_date>
-      <news:title>Maddie Ashman Releases Double Single ‘Jaded / In Autumn My Heart Breaks’</news:title>
-    </news:news>
-  </url>
 </urlset>
