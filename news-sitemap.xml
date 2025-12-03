@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/36oy3f6lnbwurtem5nbhjhouc6wnj3</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-03T10:00:00Z</news:publication_date>
+      <news:title>Start Listening To: Goodbye</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/radiator-announce-debut-ep-glass-on-limited-12-vinyl</loc>
     <news:news>
       <news:publication>
