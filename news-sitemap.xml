@@ -11,15 +11,4 @@
       <news:title>Start Listening To: Goodbye</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/radiator-announce-debut-ep-glass-on-limited-12-vinyl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-02T13:35:37Z</news:publication_date>
-      <news:title>Radiator Announce Debut EP Glass On Limited 12&quot; Vinyl</news:title>
-    </news:news>
-  </url>
 </urlset>
