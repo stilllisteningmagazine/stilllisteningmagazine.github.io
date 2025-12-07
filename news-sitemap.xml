@@ -11,26 +11,4 @@
       <news:title>Third Man Records Announces London Christmas Fair With Independent Labels</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/alanis-morissette-announces-summer-2026-london-show-at-crystal-palace-park</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-05T12:39:45Z</news:publication_date>
-      <news:title>Alanis Morissette Announces Summer 2026 London Show At Crystal Palace Park</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-gladboy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-05T12:14:00Z</news:publication_date>
-      <news:title>Start Listening To: Gladboy</news:title>
-    </news:news>
-  </url>
 </urlset>
