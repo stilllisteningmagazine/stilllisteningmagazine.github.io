@@ -22,15 +22,4 @@
       <news:title>The Top 50 Albums Of 2025</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-top-20-eps-of-2025</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-18T18:30:00Z</news:publication_date>
-      <news:title>The Top 20 EPs Of 2025</news:title>
-    </news:news>
-  </url>
 </urlset>
