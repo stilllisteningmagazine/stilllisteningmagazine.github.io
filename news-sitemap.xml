@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/prostitute-share-explosive-new-video-for-all-hail-pressure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-08T12:49:39Z</news:publication_date>
+      <news:title>Prostitute Share Explosive New Video For ‘All Hail (Pressure)’</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/alice-costelloe-shares-new-single-how-can-i</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2026-01-06T23:01:58Z</news:publication_date>
       <news:title>Mandy, Indiana Share New Single ‘Cursive’ And Announce European Tour</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/hype-list-26-new-artists-to-watch-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-06T12:49:30Z</news:publication_date>
-      <news:title>Hype List: 26 New Artists To Watch In 2026</news:title>
     </news:news>
   </url>
 </urlset>
