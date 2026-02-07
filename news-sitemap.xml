@@ -44,15 +44,4 @@
       <news:title>Chartreuse And The Quiet Weight Of ‘Heaven Sent’</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/interviews/ulrika-spacek-expo-and-the-power-of-making-art-together</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T14:01:39Z</news:publication_date>
-      <news:title>Ulrika Spacek, EXPO And The Power Of Making Art Together</news:title>
-    </news:news>
-  </url>
 </urlset>
