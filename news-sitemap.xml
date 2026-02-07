@@ -55,26 +55,4 @@
       <news:title>Ulrika Spacek, EXPO And The Power Of Making Art Together</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-evelyn-gray</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T13:38:16Z</news:publication_date>
-      <news:title>Start Listening To: Evelyn Gray</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-caitlin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-05T12:59:40Z</news:publication_date>
-      <news:title>Start Listening To: Caitlin</news:title>
-    </news:news>
-  </url>
 </urlset>
