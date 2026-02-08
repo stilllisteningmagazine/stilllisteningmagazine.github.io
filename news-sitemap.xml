@@ -11,26 +11,4 @@
       <news:title>Start Listening To: Charlie Franklin</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/10-years-on-blackstar-signals-arrival-as-much-as-departure</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-06T13:32:29Z</news:publication_date>
-      <news:title>10 Years On: Blackstar Signals Arrival As Much as Departure</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-first-sustainable-vinyl-moves-into-commercialisation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-06T12:50:44Z</news:publication_date>
-      <news:title>The First Sustainable Vinyl Moves Into Commercialisation</news:title>
-    </news:news>
-  </url>
 </urlset>
