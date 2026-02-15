@@ -11,15 +11,4 @@
       <news:title>Start Listening To: Balderdasch</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/danny-l-harle-cerulean-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-13T13:18:50Z</news:publication_date>
-      <news:title>Danny L Harle - Cerulean Review</news:title>
-    </news:news>
-  </url>
 </urlset>
