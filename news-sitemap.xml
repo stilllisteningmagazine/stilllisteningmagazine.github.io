@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/former-black-midi-member-cameron-picton-announces-debut-album-from-my-new-band-believe</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-17T14:00:00Z</news:publication_date>
+      <news:title>Former black midi Member Cameron Picton Announces Debut Album From My New Band Believe</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/reviews/deathcrash-somersaults-review</loc>
     <news:news>
       <news:publication>
