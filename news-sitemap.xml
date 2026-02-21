@@ -11,15 +11,4 @@
       <news:title>Start Listening To: Kiosk</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/gorillaz-the-mountain-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-19T12:42:33Z</news:publication_date>
-      <news:title>Gorillaz - The Mountain Review</news:title>
-    </news:news>
-  </url>
 </urlset>
