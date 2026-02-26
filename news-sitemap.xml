@@ -55,15 +55,4 @@
       <news:title>Start Listening To: Spanish Horses</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-best-festivals-in-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-24T16:07:38Z</news:publication_date>
-      <news:title>The Best Festivals In 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
