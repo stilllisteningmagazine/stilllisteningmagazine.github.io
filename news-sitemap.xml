@@ -44,15 +44,4 @@
       <news:title>Charli XCX - Vroom Vroom EP Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-spanish-horses</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-25T12:41:43Z</news:publication_date>
-      <news:title>Start Listening To: Spanish Horses</news:title>
-    </news:news>
-  </url>
 </urlset>
