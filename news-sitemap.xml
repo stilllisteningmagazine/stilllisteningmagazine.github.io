@@ -44,37 +44,4 @@
       <news:title>Mitski - Nothing&#x27;s About to Happen to Me Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-herbie-may</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T13:22:49Z</news:publication_date>
-      <news:title>Start Listening To: Herbie May</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-pigeon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T12:45:16Z</news:publication_date>
-      <news:title>Start Listening To: Pigeon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/moby-future-quiet-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-26T12:45:15Z</news:publication_date>
-      <news:title>Moby - Future Quiet Review</news:title>
-    </news:news>
-  </url>
 </urlset>
