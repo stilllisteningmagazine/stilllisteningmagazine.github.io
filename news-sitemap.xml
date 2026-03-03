@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/five-nineties-alt-country-rock-albums-you-should-listen-to</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-03T15:03:36Z</news:publication_date>
+      <news:title>Five Nineties Alt Country Rock Albums You Should Listen To</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/four-tet-wolf-alice-wilco-and-mogwai-announced-as-green-man-headliners</loc>
     <news:news>
       <news:publication>
