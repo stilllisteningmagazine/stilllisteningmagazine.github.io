@@ -11,15 +11,4 @@
       <news:title>Arctic Monkeys - Whatever People Say I Am, That’s What I’m Not Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/five-nineties-alt-country-rock-albums-you-should-listen-to</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-03T15:03:36Z</news:publication_date>
-      <news:title>Five Nineties Alt Country Rock Albums You Should Listen To</news:title>
-    </news:news>
-  </url>
 </urlset>
