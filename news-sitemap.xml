@@ -11,26 +11,4 @@
       <news:title>Harry Styles - Kiss All the Time. Disco, Occasionally Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/war-child-records-help2-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T15:03:26Z</news:publication_date>
-      <news:title>War Child Records - HELP(2) Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/east-london-block-party-returns-for-fourth-edition-this-july</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T14:44:32Z</news:publication_date>
-      <news:title>East London Block Party Returns For Fourth Edition This July</news:title>
-    </news:news>
-  </url>
 </urlset>
