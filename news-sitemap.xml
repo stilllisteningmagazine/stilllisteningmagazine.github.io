@@ -33,26 +33,4 @@
       <news:title>East London Block Party Returns For Fourth Edition This July</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/the-scratch-pull-like-a-dog-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T12:36:11Z</news:publication_date>
-      <news:title>The Scratch - Pull Like a Dog Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/12-names-we-cant-wait-to-see-at-rock-werchter-this-summer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-06T12:25:48Z</news:publication_date>
-      <news:title>12 Names We Can’t Wait to See at Rock Werchter This Summer</news:title>
-    </news:news>
-  </url>
 </urlset>
