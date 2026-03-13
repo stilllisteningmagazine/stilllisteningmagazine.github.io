@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/gena-the-pleasure-is-yours-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T13:45:01Z</news:publication_date>
+      <news:title>GENA - The Pleasure Is Yours Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/forwards-festival-2026-returns-with-tems-little-simz-wet-leg-and-amyl-and-the-sniffers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T13:24:52Z</news:publication_date>
+      <news:title>Forwards Festival 2026 Returns With Tems, Little Simz, Wet Leg and Amyl and the Sniffers</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/interviews/cutworms-max-clarke-on-transmitter-jeff-tweedy-and-empathy-in-a-digital-age</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T13:12:48Z</news:publication_date>
+      <news:title>Cut Worms on Transmitter, Jeff Tweedy and Empathy in a Digital Age</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/interviews/the-orielles-on-only-you-left</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-13T12:59:00Z</news:publication_date>
+      <news:title>The Orielles On Only You Left</news:title>
+    </news:news>
+  </url>
 </urlset>
