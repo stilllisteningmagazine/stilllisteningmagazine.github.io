@@ -1,3 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/grace-ives-girlfriend-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T22:00:58Z</news:publication_date>
+      <news:title>Grace Ives - Girlfriend Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/courtney-barnett-creature-of-habit-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-19T11:45:31Z</news:publication_date>
+      <news:title>Courtney Barnett - Creature of Habit Review</news:title>
+    </news:news>
+  </url>
 </urlset>
