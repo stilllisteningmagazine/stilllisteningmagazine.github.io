@@ -11,26 +11,4 @@
       <news:title>Start Listening To: Lifeloose</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-sloe-noon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T12:00:21Z</news:publication_date>
-      <news:title>Start Listening To: Sloe Noon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/ruby-doomsday-return-with-horror-tinged-surf-rock-single-the-original-spin</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-26T11:25:37Z</news:publication_date>
-      <news:title>Ruby Doomsday Return With Horror-Tinged Surf Rock Single ‘The Original Spin’</news:title>
-    </news:news>
-  </url>
 </urlset>
