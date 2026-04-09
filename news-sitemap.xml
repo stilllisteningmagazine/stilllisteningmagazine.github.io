@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.stilllisteningmagazine.com/features/damnation-2026-locks-in-its-heaviest-lineup-yet-with-carcass-crowbar-and-eyehategod</loc>
+    <loc>https://www.stilllisteningmagazine.com/features/zoh-amba-announces-matador-debut-eyes-full</loc>
     <news:news>
       <news:publication>
         <news:name>Still Listening Magazine</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-04-07T11:09:47Z</news:publication_date>
-      <news:title>Damnation 2026 Locks In Its Heaviest Lineup Yet with Carcass, Crowbar and Eyehategod</news:title>
+      <news:publication_date>2026-04-09T11:07:52Z</news:publication_date>
+      <news:title>Zoh Amba Announces Matador Debut Eyes Full</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-committee-of-sleep</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-09T11:03:43Z</news:publication_date>
+      <news:title>Start Listening To: Committee of Sleep</news:title>
     </news:news>
   </url>
 </urlset>
