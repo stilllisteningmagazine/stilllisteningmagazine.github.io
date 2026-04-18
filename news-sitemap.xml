@@ -11,15 +11,4 @@
       <news:title>Start Listening To: Farveblind</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/0td9fdbkvqgo6dpqgwmdbxa87rgm0r</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-16T10:16:54Z</news:publication_date>
-      <news:title>Start Listening To: untitled</news:title>
-    </news:news>
-  </url>
 </urlset>
