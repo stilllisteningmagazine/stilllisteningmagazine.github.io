@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-myer-u-clark</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T11:19:10Z</news:publication_date>
+      <news:title>Start Listening To: Myer U Clark</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/bathing-suits-release-new-single-killing-swan</loc>
     <news:news>
       <news:publication>
@@ -8,7 +19,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-04-28T10:57:41Z</news:publication_date>
-      <news:title>Bathing Suits Release Abrasive New Single ‘Killing Swan’</news:title>
+      <news:title>Bathing Suits Release Abrasive New Single ‘Swan Princess’</news:title>
     </news:news>
   </url>
   <url>
