@@ -22,37 +22,4 @@
       <news:title>Bathing Suits Release Abrasive New Single ‘Swan Princess’</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-tony-bontana-at-the-brixton-windmill</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T10:39:52Z</news:publication_date>
-      <news:title>Gig Review: Tony Bontana At The Brixton Windmill</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-roscoe-roscoe-and-unlucky-at-sjq</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T10:21:56Z</news:publication_date>
-      <news:title>Gig Review: Roscoe Roscoe and Unlucky At SJQ</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-dermot-henry-at-folklore</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-28T10:09:36Z</news:publication_date>
-      <news:title>Gig Review: Dermot Henry At Folklore</news:title>
-    </news:news>
-  </url>
 </urlset>
