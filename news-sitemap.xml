@@ -12,6 +12,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/adventures-in-the-uk-underground-our-mutual-friend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T12:38:49Z</news:publication_date>
+      <news:title>Adventures in the UK Underground: Our Mutual Friend</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/lipworms-release-new-single-worm-101-that-can-turn-anything-no-matter-where-you-are-into-a-dancefloor</loc>
     <news:news>
       <news:publication>
@@ -31,6 +42,28 @@
       </news:publication>
       <news:publication_date>2026-05-05T11:46:31Z</news:publication_date>
       <news:title>Girl In The Year Above&#x27;s New Single ‘Ode to the Glory Days’ Creates A Whole World In Its Lyrics</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-the-scratch-at-electric-ballroom</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T11:35:50Z</news:publication_date>
+      <news:title>Gig Review: The Scratch At Electric Ballroom</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/adventures-in-the-uk-underground-exitahead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T11:23:40Z</news:publication_date>
+      <news:title>Adventures in the UK Underground: Exit.Ahead</news:title>
     </news:news>
   </url>
   <url>
