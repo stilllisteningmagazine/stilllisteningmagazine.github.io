@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/an-interview-with-sounds-of-seattle-rock-and-guitar-solos-have-been-dying-for-40-years</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T12:59:55Z</news:publication_date>
+      <news:title>An Interview With &#x27;Sounds Of Seattle&#x27;: &quot;Rock And Guitar Solos Have Been Dying For 40 Years.&quot;</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/adventures-in-the-uk-underground-our-mutual-friend</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T12:38:49Z</news:publication_date>
+      <news:title>Adventures in the UK Underground: Our Mutual Friend</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/lipworms-release-new-single-worm-101-that-can-turn-anything-no-matter-where-you-are-into-a-dancefloor</loc>
     <news:news>
       <news:publication>
@@ -31,6 +53,17 @@
       </news:publication>
       <news:publication_date>2026-05-05T11:35:50Z</news:publication_date>
       <news:title>Gig Review: The Scratch At Electric Ballroom</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/adventures-in-the-uk-underground-exitahead</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-05T11:23:40Z</news:publication_date>
+      <news:title>Adventures in the UK Underground: Exit.Ahead</news:title>
     </news:news>
   </url>
   <url>
