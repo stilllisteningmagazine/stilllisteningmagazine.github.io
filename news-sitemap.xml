@@ -44,26 +44,4 @@
       <news:title>Start Listening To: THEATRE</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/basement-wired-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T16:23:46Z</news:publication_date>
-      <news:title>Basement - WIRED Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/octo-octa-sigils-for-survival-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T16:09:34Z</news:publication_date>
-      <news:title>Octo Octa - Sigils for Survival Review</news:title>
-    </news:news>
-  </url>
 </urlset>
