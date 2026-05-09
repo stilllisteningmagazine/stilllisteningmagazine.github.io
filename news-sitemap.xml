@@ -77,15 +77,4 @@
       <news:title>Gig Review: Dry Cleaning At O2 Academy Brixton</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-the-gnomes</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-07T12:21:54Z</news:publication_date>
-      <news:title>Start Listening To: The Gnomes</news:title>
-    </news:news>
-  </url>
 </urlset>
