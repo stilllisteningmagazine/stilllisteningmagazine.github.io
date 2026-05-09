@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/king-gizzard-amp-the-lizard-wizard-nonagon-infinity-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T18:37:50Z</news:publication_date>
-      <news:title>King Gizzard &amp; The Lizard Wizard - Nonagon Infinity Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/aldous-harding-train-on-the-island-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T18:14:29Z</news:publication_date>
-      <news:title>Aldous Harding - Train on the Island Review</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-truthpaste-at-the-lexington</loc>
     <news:news>
       <news:publication>
