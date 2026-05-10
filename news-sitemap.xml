@@ -22,15 +22,4 @@
       <news:title>Aldous Harding - Train on the Island Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-truthpaste-at-the-lexington</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T13:54:57Z</news:publication_date>
-      <news:title>Gig Review: Truthpaste At The Lexington</news:title>
-    </news:news>
-  </url>
 </urlset>
