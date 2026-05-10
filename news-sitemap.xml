@@ -33,15 +33,4 @@
       <news:title>Gig Review: Truthpaste At The Lexington</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-theatre</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-08T12:34:08Z</news:publication_date>
-      <news:title>Start Listening To: THEATRE</news:title>
-    </news:news>
-  </url>
 </urlset>
