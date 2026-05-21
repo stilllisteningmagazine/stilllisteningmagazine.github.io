@@ -11,15 +11,4 @@
       <news:title>Start Listening To: Vera Daisies</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-frankie-archer</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-19T12:11:20Z</news:publication_date>
-      <news:title>Start Listening To: Frankie Archer</news:title>
-    </news:news>
-  </url>
 </urlset>
