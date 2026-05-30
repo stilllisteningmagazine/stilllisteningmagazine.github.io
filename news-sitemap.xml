@@ -22,48 +22,4 @@
       <news:title>Start Listening To: Biita Houdei</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-alice-sk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T16:55:08Z</news:publication_date>
-      <news:title>Start Listening To: Alice SK</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/kurt-vile-philadelphias-been-good-to-me-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T16:42:46Z</news:publication_date>
-      <news:title>Kurt Vile - Philadelphia’s been good to me Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-the-great-escape-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T16:17:06Z</news:publication_date>
-      <news:title>Festival Review: The Great Escape 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-maquina-at-the-dome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-28T16:16:38Z</news:publication_date>
-      <news:title>Gig Review: MAQUINA At The Dome</news:title>
-    </news:news>
-  </url>
 </urlset>
