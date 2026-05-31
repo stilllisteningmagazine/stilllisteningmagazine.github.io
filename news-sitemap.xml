@@ -22,26 +22,4 @@
       <news:title>Gig Review: JJ Bull At Dead Wax Digbeth</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/boards-of-canada-inferno-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T11:26:14Z</news:publication_date>
-      <news:title>Boards of Canada - Inferno Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-biita-houdei</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-29T11:12:03Z</news:publication_date>
-      <news:title>Start Listening To: Biita Houdei</news:title>
-    </news:news>
-  </url>
 </urlset>
