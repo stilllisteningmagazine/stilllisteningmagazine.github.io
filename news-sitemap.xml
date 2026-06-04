@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-madison-beer-at-the-o2</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-04T11:35:29Z</news:publication_date>
+      <news:title>Gig Review: Madison Beer At The O2</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/jehnny-beth-at-the-bullingdon</loc>
     <news:news>
       <news:publication>
@@ -8,7 +19,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-06-03T11:11:01Z</news:publication_date>
-      <news:title>Jehnny Beth at the Bullingdon</news:title>
+      <news:title>Gig Review: Jehnny Beth At The Bullingdon</news:title>
     </news:news>
   </url>
   <url>
