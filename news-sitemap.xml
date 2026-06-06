@@ -22,15 +22,4 @@
       <news:title>Gig Review: Open Mike Eagle At Belgrave Music Hall And Canteen</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-family-art-club</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T17:06:59Z</news:publication_date>
-      <news:title>Start Listening To: Family Art Club</news:title>
-    </news:news>
-  </url>
 </urlset>
