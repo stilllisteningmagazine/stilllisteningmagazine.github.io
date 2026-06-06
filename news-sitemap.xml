@@ -44,26 +44,4 @@
       <news:title>Festival Review: GALA 2026</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/interviews/laura-misch-on-finding-connection-through-lithic</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T12:12:54Z</news:publication_date>
-      <news:title>Laura Misch On Finding Connection Through ‘Lithic’</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-madison-beer-at-the-o2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T11:35:29Z</news:publication_date>
-      <news:title>Gig Review: Madison Beer At The O2</news:title>
-    </news:news>
-  </url>
 </urlset>
