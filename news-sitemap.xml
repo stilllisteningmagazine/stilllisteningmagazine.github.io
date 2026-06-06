@@ -33,15 +33,4 @@
       <news:title>Start Listening To: Family Art Club</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/xvvbjy2v390lvhjxjx81z98c3i92eg</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T16:48:02Z</news:publication_date>
-      <news:title>Festival Review: GALA 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
