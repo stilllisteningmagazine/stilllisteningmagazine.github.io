@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/twenty-one-children-embark-on-a-uk-tour-as-the-future-of-punk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T13:10:01Z</news:publication_date>
+      <news:title>Twenty One Children embark on a UK tour as the future of punk/hardcore</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-greetings-v-at-vespers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-12T12:25:34Z</news:publication_date>
+      <news:title>Gig Review: Greetings V At Vespers</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-wing</loc>
     <news:news>
       <news:publication>
@@ -12,6 +34,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/son-estrella-galicia-returns-with-a-summer-series-of-hackney-shows</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11T16:34:13Z</news:publication_date>
+      <news:title>SON Estrella Galicia Returns With A Summer Series Of Hackney Shows</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-olga-myko</loc>
     <news:news>
       <news:publication>
@@ -20,6 +53,28 @@
       </news:publication>
       <news:publication_date>2026-06-11T11:39:26Z</news:publication_date>
       <news:title>Start Listening To: Olga Myko</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/sylvan-esso-return-with-explosive-new-single-hot-slob</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T19:37:47Z</news:publication_date>
+      <news:title>Sylvan Esso Return With Explosive New Single ‘Hot Slob’</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/geese-announced-as-final-headliner-for-end-of-the-road-festival-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T19:24:40Z</news:publication_date>
+      <news:title>Geese Announced As Final Headliner For End Of The Road Festival 2026</news:title>
     </news:news>
   </url>
 </urlset>
