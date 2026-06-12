@@ -55,26 +55,4 @@
       <news:title>Start Listening To: Olga Myko</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/sylvan-esso-return-with-explosive-new-single-hot-slob</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T19:37:47Z</news:publication_date>
-      <news:title>Sylvan Esso Return With Explosive New Single ‘Hot Slob’</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/geese-announced-as-final-headliner-for-end-of-the-road-festival-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10T19:24:40Z</news:publication_date>
-      <news:title>Geese Announced As Final Headliner For End Of The Road Festival 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
