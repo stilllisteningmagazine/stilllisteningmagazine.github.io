@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-hayley-williams-at-the-roundhouse</loc>
+    <loc>https://www.stilllisteningmagazine.com/interviews/cold-court-are-building-their-own-language</loc>
     <news:news>
       <news:publication>
         <news:name>Still Listening Magazine</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-06-23T13:47:30Z</news:publication_date>
-      <news:title>Gig Review: Hayley Williams At The Roundhouse</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-gorillaz-at-tottenham-stadium</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T13:29:39Z</news:publication_date>
-      <news:title>Gig Review: Gorillaz At Tottenham Stadium</news:title>
+      <news:publication_date>2026-06-25T12:51:04Z</news:publication_date>
+      <news:title>Cold Court On The Philly Scene, Contemporary Theatre And Crafting A New Sound</news:title>
     </news:news>
   </url>
 </urlset>
