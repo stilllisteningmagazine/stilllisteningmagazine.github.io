@@ -22,15 +22,4 @@
       <news:title>Gig Review: Houndshark, Newbuild, Insider Trading At SON Estrella Galicia</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/dto6y0vl458eijodw4a2bskmynm47u</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-21T17:33:21Z</news:publication_date>
-      <news:title>The Mechanics of a Musical Revolution: Which Succeeded Where Most Fail?</news:title>
-    </news:news>
-  </url>
 </urlset>
