@@ -11,15 +11,4 @@
       <news:title>Gig Review: XL Poncho At Band on the Wall Manchester</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/25-years-on-is-this-it-still-sounds-like-the-future</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T20:57:29Z</news:publication_date>
-      <news:title>25 Years On, Is This It Still Sounds Like The Future</news:title>
-    </news:news>
-  </url>
 </urlset>
