@@ -22,15 +22,4 @@
       <news:title>25 Years On, Is This It Still Sounds Like The Future</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-mercury-prize-used-to-champion-independent-music-what-happened</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-30T13:13:34Z</news:publication_date>
-      <news:title>The Mercury Prize Used To Champion Independent Music. What Happened?</news:title>
-    </news:news>
-  </url>
 </urlset>
