@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-y-not-festival-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-06T15:56:20Z</news:publication_date>
+      <news:title>Festival Review: Y Not Festival 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-radar-festival-2026</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-08-06T11:36:52Z</news:publication_date>
       <news:title>Festival Review: Radar Festival 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/every-the-strokes-album-ranked-worst-to-best</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-04T18:18:13Z</news:publication_date>
-      <news:title>Every The Strokes Album Ranked Worst To Best</news:title>
     </news:news>
   </url>
 </urlset>
