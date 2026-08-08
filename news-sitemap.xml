@@ -44,15 +44,4 @@
       <news:title>The 25 Best Beach House Songs, Ranked</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-y-not-festival-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-06T15:56:20Z</news:publication_date>
-      <news:title>Festival Review: Y Not Festival 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
