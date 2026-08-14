@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/interviews/girl-in-the-year-above-on-the-kooks-massive-attack-and-taking-over-truck-festival</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T13:17:26Z</news:publication_date>
+      <news:title>Girl In The Year Above Cause Chaos at Truck Festival</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-the-killers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-14T13:03:32Z</news:publication_date>
+      <news:title>The 25 Best Songs By The Killers, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/as-the-velvet-rope-nears-30-can-we-finally-give-janet-jackson-her-flowers</loc>
     <news:news>
       <news:publication>
@@ -12,6 +34,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-the-strokes-songs-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-13T14:38:29Z</news:publication_date>
+      <news:title>The 25 Best Songs By The Strokes, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/sennheiser-hdb-630-review</loc>
     <news:news>
       <news:publication>
@@ -20,17 +53,6 @@
       </news:publication>
       <news:publication_date>2026-08-13T14:27:34Z</news:publication_date>
       <news:title>Sennheiser HDB 630 Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-the-strokes-songs-ranked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-13T12:41:29Z</news:publication_date>
-      <news:title>The 25 Best Strokes Songs, Ranked</news:title>
     </news:news>
   </url>
   <url>
