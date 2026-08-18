@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/a-beginners-guide-to-joni-mitchell-where-to-start</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T13:59:44Z</news:publication_date>
+      <news:title>A Beginners Guide to Joni Mitchell: Where to Start</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/every-fontaines-dc-album-ranked-from-worst-to-best</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-18T13:23:35Z</news:publication_date>
+      <news:title>Every Fontaines D.C. Album Ranked From Worst To Best</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/interviews/1pwniw3c58i730743mqzwwc0kjdvfa</loc>
     <news:news>
       <news:publication>
