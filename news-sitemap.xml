@@ -55,15 +55,4 @@
       <news:title>Start Listening To: Sesame Girl</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/a-beginners-guide-to-joni-mitchell-where-to-start</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-18T13:59:44Z</news:publication_date>
-      <news:title>A Beginners Guide to Joni Mitchell: Where to Start</news:title>
-    </news:news>
-  </url>
 </urlset>
