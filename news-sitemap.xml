@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-blow-dry</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-23T10:00:23Z</news:publication_date>
+      <news:title>Start Listening To: Blow Dry</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-chat-pile-at-bush-hall</loc>
     <news:news>
       <news:publication>
@@ -20,17 +31,6 @@
       </news:publication>
       <news:publication_date>2026-08-22T12:00:48Z</news:publication_date>
       <news:title>Start Listening To: Graham Hunt</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-those-holy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-21T10:00:36Z</news:publication_date>
-      <news:title>Start Listening To: Those Holy</news:title>
     </news:news>
   </url>
 </urlset>
