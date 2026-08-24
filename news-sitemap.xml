@@ -77,15 +77,4 @@
       <news:title>Gig Review: Chat Pile at bush hall</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-graham-hunt</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-22T12:00:48Z</news:publication_date>
-      <news:title>Start Listening To: Graham Hunt</news:title>
-    </news:news>
-  </url>
 </urlset>
