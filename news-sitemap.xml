@@ -66,15 +66,4 @@
       <news:title>Every Song on Frank Ocean’s ‘Blonde’, Ranked from Worst to Best</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/10-best-songs-over-10-minutes-long</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-23T18:43:20Z</news:publication_date>
-      <news:title>10 Best Songs Over 10 Minutes Long</news:title>
-    </news:news>
-  </url>
 </urlset>
