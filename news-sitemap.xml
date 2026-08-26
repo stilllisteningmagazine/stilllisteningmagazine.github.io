@@ -33,15 +33,4 @@
       <news:title>Gig Review: Nation of Language at Village Underground</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-jam-and-mod-culture-why-neither-ever-went-away</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-24T09:00:46Z</news:publication_date>
-      <news:title>The Jam and Mod Culture: Why Neither Ever Went Away</news:title>
-    </news:news>
-  </url>
 </urlset>
