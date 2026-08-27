@@ -12,6 +12,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/every-talking-heads-album-ranked-from-worst-to-best</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T14:49:47Z</news:publication_date>
+      <news:title>Every Talking Heads Album Ranked From Worst To Best</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-ariana-grande-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-27T13:55:30Z</news:publication_date>
+      <news:title>The 25 Best Songs By Ariana Grande, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-lily-juniper</loc>
     <news:news>
       <news:publication>
