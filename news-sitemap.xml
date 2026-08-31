@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-all-points-east</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-31T19:05:12Z</news:publication_date>
+      <news:title>Festival Review: twenty one pilots at All Points East</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-concrete-vehicles</loc>
     <news:news>
       <news:publication>
@@ -9,17 +20,6 @@
       </news:publication>
       <news:publication_date>2026-08-30T11:09:00Z</news:publication_date>
       <news:title>Start Listening To: Concrete Vehicles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/a-beginners-guide-to-leonard-cohen-where-to-start</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-29T19:09:25Z</news:publication_date>
-      <news:title>A Beginners Guide to Leonard Cohen: Where to Start</news:title>
     </news:news>
   </url>
 </urlset>
