@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-noam</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T12:17:43Z</news:publication_date>
+      <news:title>Start Listening To: Noam</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/beyoncs-bday-at-20-the-moment-she-became-beyonc</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-01T11:00:29Z</news:publication_date>
+      <news:title>Beyoncé’s ‘B’Day’ at 20: The Moment She Became Beyoncé</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-all-points-east</loc>
     <news:news>
       <news:publication>
@@ -9,17 +31,6 @@
       </news:publication>
       <news:publication_date>2026-08-31T19:05:12Z</news:publication_date>
       <news:title>Festival Review: twenty one pilots at All Points East</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-concrete-vehicles</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-08-30T11:09:00Z</news:publication_date>
-      <news:title>Start Listening To: Concrete Vehicles</news:title>
     </news:news>
   </url>
 </urlset>
