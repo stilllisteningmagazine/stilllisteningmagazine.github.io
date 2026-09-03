@@ -22,15 +22,4 @@
       <news:title>Start listening to: evenson</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-tyler-the-creator-at-all-points-east</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-01T14:32:29Z</news:publication_date>
-      <news:title>Festival Review: Tyler, The Creator At All Points East</news:title>
-    </news:news>
-  </url>
 </urlset>
