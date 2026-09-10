@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-roomer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T17:19:39Z</news:publication_date>
+      <news:title>Start Listening To: Roomer</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-the-maccabees-at-kirkstall-abbey</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T14:32:25Z</news:publication_date>
+      <news:title>Gig Review: The Maccabees At Kirkstall Abbey</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-end-of-the-road-2026</loc>
     <news:news>
       <news:publication>
@@ -31,61 +53,6 @@
       </news:publication>
       <news:publication_date>2026-09-08T18:05:35Z</news:publication_date>
       <news:title>Start Listening To: Cusk</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/every-velvet-underground-album-ranked-from-worst-to-best</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T17:25:11Z</news:publication_date>
-      <news:title>Every Velvet Underground album ranked from worst to best</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-leeroy-salmon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T17:03:04Z</news:publication_date>
-      <news:title>Start Listening To: Leeroy Salmon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-noah-hill</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T16:49:39Z</news:publication_date>
-      <news:title>Start Listening To: Noah Hill</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/remembering-dolly-parton-at-glastonbury-2014</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T16:16:00Z</news:publication_date>
-      <news:title>Remembering Dolly Parton at Glastonbury 2014</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-manchester-psych-fest-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T16:02:22Z</news:publication_date>
-      <news:title>Festival Review: Manchester Psych Fest 2026</news:title>
     </news:news>
   </url>
 </urlset>
