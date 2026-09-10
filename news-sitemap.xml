@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/photo-diary-forwards-festival-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T19:22:08Z</news:publication_date>
+      <news:title>Photo Diary: Forwards Festival 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-roomer</loc>
     <news:news>
       <news:publication>
@@ -31,28 +42,6 @@
       </news:publication>
       <news:publication_date>2026-09-10T10:59:10Z</news:publication_date>
       <news:title>Festival Review: End of the Road 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-black-nylon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T18:11:46Z</news:publication_date>
-      <news:title>Start Listening To: Black Nylon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-cusk</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-08T18:05:35Z</news:publication_date>
-      <news:title>Start Listening To: Cusk</news:title>
     </news:news>
   </url>
 </urlset>
