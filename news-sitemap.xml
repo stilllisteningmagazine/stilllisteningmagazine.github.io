@@ -22,15 +22,4 @@
       <news:title>Start Listening To: Dolly Doops</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-katseye-at-the-o2-arena-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-15T18:41:52Z</news:publication_date>
-      <news:title>Gig Review: KATSEYE At The O2 arena 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
