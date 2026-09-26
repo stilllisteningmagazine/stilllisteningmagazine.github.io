@@ -44,15 +44,4 @@
       <news:title>Start Listening To: gash</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-radiohead-ranked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-24T15:39:34Z</news:publication_date>
-      <news:title>The 25 Best Songs By Radiohead, Ranked</news:title>
-    </news:news>
-  </url>
 </urlset>
