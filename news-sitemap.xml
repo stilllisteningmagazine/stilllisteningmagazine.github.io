@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-lynks-at-the-george-tavern</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-30T16:30:19Z</news:publication_date>
+      <news:title>Gig Review: Lynks at the George Tavern</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-m-woodroe</loc>
     <news:news>
       <news:publication>
@@ -86,17 +97,6 @@
       </news:publication>
       <news:publication_date>2026-09-29T09:35:35Z</news:publication_date>
       <news:title>Start Listening To: Odette</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-lene-3000</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-28T13:35:20Z</news:publication_date>
-      <news:title>Start Listening To: Lene 3000</news:title>
     </news:news>
   </url>
 </urlset>
