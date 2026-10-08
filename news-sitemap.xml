@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-zach-stephenson</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T11:24:39Z</news:publication_date>
+      <news:title>Start Listening To: Zach Stephenson</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-king-gizzard-and-the-lizard-wizard-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-08T11:00:46Z</news:publication_date>
+      <news:title>The 25 Best Songs By King Gizzard and the Lizard Wizard, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/danioffline</loc>
     <news:news>
       <news:publication>
@@ -31,39 +53,6 @@
       </news:publication>
       <news:publication_date>2026-10-07T11:00:20Z</news:publication_date>
       <news:title>A Beginner’s Guide to Boards of Canada</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/20-best-halloween-songs-for-your-party-playlist</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T12:26:43Z</news:publication_date>
-      <news:title>20 Best Halloween Songs For Your Party Playlist</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-alex-cameron-at-lower-third-downstairs</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T11:34:59Z</news:publication_date>
-      <news:title>Gig Review: Alex Cameron At Lower Third (Downstairs)</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-disgrace</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-06T10:42:28Z</news:publication_date>
-      <news:title>Start Listening To: Disgrace</news:title>
     </news:news>
   </url>
 </urlset>
