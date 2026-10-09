@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/bloc-party-anatomy-of-a-brief-romance-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T13:31:29Z</news:publication_date>
+      <news:title>Bloc Party – Anatomy of a Brief Romance Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/the-wran-the-stone-man-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T13:11:27Z</news:publication_date>
+      <news:title>The Wran - The Stone Man Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-headaches</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-09T11:12:50Z</news:publication_date>
+      <news:title>Start Listening To: Headaches</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-1000-rabbits-at-chats-palace</loc>
     <news:news>
       <news:publication>
@@ -53,28 +86,6 @@
       </news:publication>
       <news:publication_date>2026-10-07T20:28:03Z</news:publication_date>
       <news:title>Start Listening To: Dani Offline</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-good-health-good-wealth</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T11:00:42Z</news:publication_date>
-      <news:title>Start Listening To: Good Health Good Wealth</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/a-beginners-guide-to-boards-of-canada</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-07T11:00:20Z</news:publication_date>
-      <news:title>A Beginner’s Guide to Boards of Canada</news:title>
     </news:news>
   </url>
 </urlset>
