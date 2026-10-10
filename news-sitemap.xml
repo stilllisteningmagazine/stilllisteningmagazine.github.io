@@ -66,15 +66,4 @@
       <news:title>Gig Review: 1000 Rabbits At Chat’s Palace</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/cameron-winter-live-at-carnegie-hall-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-08T23:01:02Z</news:publication_date>
-      <news:title>Cameron Winter - Live at Carnegie Hall Review</news:title>
-    </news:news>
-  </url>
 </urlset>
