@@ -55,15 +55,4 @@
       <news:title>Start Listening To: Headaches</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-1000-rabbits-at-chats-palace</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T08:54:56Z</news:publication_date>
-      <news:title>Gig Review: 1000 Rabbits At Chat’s Palace</news:title>
-    </news:news>
-  </url>
 </urlset>
