@@ -22,37 +22,4 @@
       <news:title>Wage War - Landfall Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/bloc-party-anatomy-of-a-brief-romance-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T13:31:29Z</news:publication_date>
-      <news:title>Bloc Party – Anatomy of a Brief Romance Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/the-wran-the-stone-man-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T13:11:27Z</news:publication_date>
-      <news:title>The Wran - The Stone Man Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-headaches</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-09T11:12:50Z</news:publication_date>
-      <news:title>Start Listening To: Headaches</news:title>
-    </news:news>
-  </url>
 </urlset>
