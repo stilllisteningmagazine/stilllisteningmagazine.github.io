@@ -11,26 +11,4 @@
       <news:title>Start Listening To: Surprise Chef</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-jordan-sand</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T15:45:27Z</news:publication_date>
-      <news:title>Start Listening To: Jordan Sand</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-fontaines-dc-at-meo-arena-lisbon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-22T14:34:08Z</news:publication_date>
-      <news:title>Gig Review: Fontaines D.C. At MEO Arena Lisbon</news:title>
-    </news:news>
-  </url>
 </urlset>
