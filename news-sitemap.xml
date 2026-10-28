@@ -33,26 +33,4 @@
       <news:title>Ugly - The South Facade Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-left-of-the-dial-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T17:40:19Z</news:publication_date>
-      <news:title>Festival Review: Left Of The Dial 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-spanish-horses-at-next-door-records-two</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-26T14:22:53Z</news:publication_date>
-      <news:title>Gig Review: Spanish Horses At Next Door Records Two</news:title>
-    </news:news>
-  </url>
 </urlset>
