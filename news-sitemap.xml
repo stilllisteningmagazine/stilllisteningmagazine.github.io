@@ -44,15 +44,4 @@
       <news:title>Start Listening To: Foot Foot</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-gloria-de-oliveira</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T12:00:08Z</news:publication_date>
-      <news:title>Start Listening To: Gloria de Oliveira</news:title>
-    </news:news>
-  </url>
 </urlset>
