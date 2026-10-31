@@ -55,37 +55,4 @@
       <news:title>Start Listening To: Gloria de Oliveira</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/pink-eye-club-edm-emotional-dance-music-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:52:13Z</news:publication_date>
-      <news:title>Pink Eye Club - EDM (Emotional Dance Music) Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/paint-whip-of-an-ear-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T23:36:01Z</news:publication_date>
-      <news:title>PAINT – Whip of an Ear Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/sandhouse-pollyanna-ep-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T22:37:33Z</news:publication_date>
-      <news:title>Sandhouse - Pollyanna EP Review</news:title>
-    </news:news>
-  </url>
 </urlset>
