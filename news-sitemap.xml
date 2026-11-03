@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/worldpeace-dmt-stick-around-for-tea-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T17:24:52Z</news:publication_date>
+      <news:title>Worldpeace DMT - Stick Around For Tea Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-chloe-qishas-fantasize-release-party-at-heaven-nightclub</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T15:46:17Z</news:publication_date>
+      <news:title>Gig Review: Chloe Qisha’s Fantasize Release Party at Heaven Nightclub</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-the-mary-wallopers-at-02-academy-brixton</loc>
     <news:news>
       <news:publication>
