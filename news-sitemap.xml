@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-the-mary-wallopers-at-02-academy-brixton</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T15:17:04Z</news:publication_date>
+      <news:title>Gig Review: The Mary Wallopers At 02 Academy Brixton</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/katie-gregson-macleod-albatross-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T14:35:46Z</news:publication_date>
+      <news:title>Katie Gregson-Macleod - Albatross Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/la-roux-old-flames-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T13:26:56Z</news:publication_date>
+      <news:title>La Roux - Old Flames Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/anja-ngozi-context-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T12:27:01Z</news:publication_date>
+      <news:title>Anja Ngozi - Context Review</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-adult-dvd-at-scala</loc>
     <news:news>
       <news:publication>
