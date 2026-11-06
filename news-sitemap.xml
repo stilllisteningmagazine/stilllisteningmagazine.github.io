@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/cult-of-luna-in-the-shadow-of-your-shadow-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T14:19:54Z</news:publication_date>
+      <news:title>Cult of Luna - In The Shadow of Your Shadow Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-brennan-wedl</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:55:05Z</news:publication_date>
+      <news:title>Start Listening To: Brennan Wedl</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/bad-brains-are-you-ready-the-first-studio-recording-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:24:28Z</news:publication_date>
+      <news:title>Bad Brains - Are You Ready: The First Studio Recording Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/gilla-band-pugnello-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T13:04:25Z</news:publication_date>
+      <news:title>Gilla Band - Pugnello Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/greg-freeman-all-set-the-bone-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:55:07Z</news:publication_date>
+      <news:title>Greg Freeman - All Set The Bone Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-library-card</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:00:36Z</news:publication_date>
+      <news:title>Start Listening To: Library Card</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-johanna-warren</loc>
     <news:news>
       <news:publication>
@@ -20,17 +86,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T15:29:55Z</news:publication_date>
       <news:title>Gig Review: Radie Peat At Union Chapel</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-stephanie-gilbert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T12:00:04Z</news:publication_date>
-      <news:title>Start Listening To: Stephanie Gilbert</news:title>
     </news:news>
   </url>
 </urlset>
