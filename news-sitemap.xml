@@ -44,15 +44,4 @@
       <news:title>Start Listening To: Jessie Marcella</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-david-bowie-ranked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T18:19:52Z</news:publication_date>
-      <news:title>The 25 Best Songs By David Bowie, Ranked</news:title>
-    </news:news>
-  </url>
 </urlset>
