@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/best-songs-for-a-truly-autumnal-halloween-walk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T13:35:17Z</news:publication_date>
+      <news:title>Best Songs for a Truly Autumnal Walk</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-uncle-junior</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T13:00:30Z</news:publication_date>
+      <news:title>Start Listening To: Uncle Junior</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/fast-fashion-pop-music</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T12:00:33Z</news:publication_date>
+      <news:title>Is TikTok Turning Pop Music Into Fast Fashion?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-jessie-marcella</loc>
     <news:news>
       <news:publication>
@@ -12,80 +45,14 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/dummy-do-you-love-the-color-of-the-sky-review</loc>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-david-bowie-ranked</loc>
     <news:news>
       <news:publication>
         <news:name>Still Listening Magazine</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-06T16:31:38Z</news:publication_date>
-      <news:title>Dummy – do you love the color of the sky? Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/cult-of-luna-in-the-shadow-of-your-shadow-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T14:19:54Z</news:publication_date>
-      <news:title>Cult of Luna - In The Shadow of Your Shadow Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-brennan-wedl</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:55:05Z</news:publication_date>
-      <news:title>Start Listening To: Brennan Wedl</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/bad-brains-are-you-ready-the-first-studio-recording-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:24:28Z</news:publication_date>
-      <news:title>Bad Brains - Are You Ready: The First Studio Recording Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/gilla-band-pugnello-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T13:04:25Z</news:publication_date>
-      <news:title>Gilla Band - Pugnello Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/greg-freeman-all-set-the-bone-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:55:07Z</news:publication_date>
-      <news:title>Greg Freeman - All Set The Bone Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-library-card</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:00:36Z</news:publication_date>
-      <news:title>Start Listening To: Library Card</news:title>
+      <news:publication_date>2026-11-06T18:19:52Z</news:publication_date>
+      <news:title>The 25 Best Songs By David Bowie, Ranked</news:title>
     </news:news>
   </url>
 </urlset>
