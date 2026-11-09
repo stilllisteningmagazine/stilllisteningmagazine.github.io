@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/bicep-the-art-between-feeling-and-dancing</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T14:00:00Z</news:publication_date>
+      <news:title>BICEP: The Art Between Feeling and Dancing</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/best-songs-for-a-truly-autumnal-halloween-walk</loc>
     <news:news>
       <news:publication>
@@ -20,28 +31,6 @@
       </news:publication>
       <news:publication_date>2026-11-08T13:00:30Z</news:publication_date>
       <news:title>Start Listening To: Uncle Junior</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/fast-fashion-pop-music</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T12:00:33Z</news:publication_date>
-      <news:title>Is TikTok Turning Pop Music Into Fast Fashion?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-jessie-marcella</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T12:00:29Z</news:publication_date>
-      <news:title>Start Listening To: Jessie Marcella</news:title>
     </news:news>
   </url>
 </urlset>
