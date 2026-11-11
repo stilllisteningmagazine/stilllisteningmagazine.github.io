@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/a-beginners-guide-to-unwound</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T17:00:21Z</news:publication_date>
+      <news:title>A Beginner’s Guide To Unwound</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-the-wran-at-rough-trade-east</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T13:59:17Z</news:publication_date>
+      <news:title>Gig Review: The Wran At Rough Trade East</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/reviews/-autosmile-review</loc>
     <news:news>
       <news:publication>
@@ -75,17 +97,6 @@
       </news:publication>
       <news:publication_date>2026-11-10T10:14:12Z</news:publication_date>
       <news:title>Start Listening To: Harvey Causon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/bicep-the-art-between-feeling-and-dancing</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T14:00:00Z</news:publication_date>
-      <news:title>BICEP: The Art Between Feeling and Dancing</news:title>
     </news:news>
   </url>
 </urlset>
