@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-car-seat-headrest-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T17:30:30Z</news:publication_date>
+      <news:title>The 25 Best Songs By Car Seat Headrest, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/tom-vr-dont-know-how-fast-im-moving-until-i-hit-something-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:06:08Z</news:publication_date>
+      <news:title>Tom VR – Don’t Know How Fast I’m Moving Until I Hit Something Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/from-furar-hondo-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:01:09Z</news:publication_date>
+      <news:title>From - Furar Hondo Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/how-melodrama-by-lorde-changed-my-perspective-of-growing-up-with-a-heart-broken</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:00:30Z</news:publication_date>
+      <news:title>How Lorde’s Melodrama Changed My Perspective on Growing Up With a Broken Heart</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/this-is-lorelei-the-singer-in-my-band-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:58:56Z</news:publication_date>
+      <news:title>This Is Lorelei – The Singer in My Band Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/ear-rumspringa-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:54:39Z</news:publication_date>
+      <news:title>ear - Rumspringa Review</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/a-beginners-guide-to-unwound</loc>
     <news:news>
       <news:publication>
@@ -20,83 +86,6 @@
       </news:publication>
       <news:publication_date>2026-11-11T13:59:17Z</news:publication_date>
       <news:title>Gig Review: The Wran At Rough Trade East</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/-autosmile-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:57:29Z</news:publication_date>
-      <news:title>@ - Autosmile Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-dummy</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:24:05Z</news:publication_date>
-      <news:title>Start Listening To: Dummy</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/50-years-of-women-in-punk-poly-styrene-tribute-gig-and-god-save-the-queens-exhibition</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T16:00:07Z</news:publication_date>
-      <news:title>50 Years of Women in Punk: Poly Styrene Tribute Gig and God Save the Queens Exhibition</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/june-mcdoom-follow-the-light-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:12:07Z</news:publication_date>
-      <news:title>June McDoom - Follow The Light Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-stevie-wonder-at-the-o2</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T13:00:33Z</news:publication_date>
-      <news:title>Gig Review: Stevie Wonder at The O2</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-teenage-fanclub-at-hackney-church</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T11:16:25Z</news:publication_date>
-      <news:title>Gig Review: Teenage Fanclub at Hackney Church</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/kr5xmrz84ilcce8rr4axx7ta7ooj7w</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T10:14:12Z</news:publication_date>
-      <news:title>Start Listening To: Harvey Causon</news:title>
     </news:news>
   </url>
 </urlset>
