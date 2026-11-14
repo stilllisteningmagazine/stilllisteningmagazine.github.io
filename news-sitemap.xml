@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/epitaph-for-a-dying-world-how-cosmo-sheldrakes-score-shapes-the-narrative-of-digger</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T12:00:24Z</news:publication_date>
+      <news:title>Epitaph for a Dying World: How Cosmo Sheldrake’s Score Shapes the Narrative of Digger</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/another-side-of-paul-simon</loc>
     <news:news>
       <news:publication>
@@ -75,61 +86,6 @@
       </news:publication>
       <news:publication_date>2026-11-12T17:30:30Z</news:publication_date>
       <news:title>The 25 Best Songs By Car Seat Headrest, Ranked</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/tom-vr-dont-know-how-fast-im-moving-until-i-hit-something-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:06:08Z</news:publication_date>
-      <news:title>Tom VR – Don’t Know How Fast I’m Moving Until I Hit Something Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/from-furar-hondo-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:01:09Z</news:publication_date>
-      <news:title>From - Furar Hondo Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/how-melodrama-by-lorde-changed-my-perspective-of-growing-up-with-a-heart-broken</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T13:00:30Z</news:publication_date>
-      <news:title>How Lorde’s Melodrama Changed My Perspective on Growing Up With a Broken Heart</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/this-is-lorelei-the-singer-in-my-band-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:58:56Z</news:publication_date>
-      <news:title>This Is Lorelei – The Singer in My Band Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/ear-rumspringa-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:54:39Z</news:publication_date>
-      <news:title>ear - Rumspringa Review</news:title>
     </news:news>
   </url>
 </urlset>
