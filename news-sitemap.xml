@@ -66,15 +66,4 @@
       <news:title>Yoo Doo Right - Build and Rest by the Shepherd’s Light Review</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/form-affinity-needling-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T22:28:37Z</news:publication_date>
-      <news:title>Form Affinity - Needling Review</news:title>
-    </news:news>
-  </url>
 </urlset>
