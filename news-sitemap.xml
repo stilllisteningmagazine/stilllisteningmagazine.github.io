@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-fiona-apple-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T15:00:41Z</news:publication_date>
+      <news:title>The 25 Best Songs by Fiona Apple, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/epitaph-for-a-dying-world-how-cosmo-sheldrakes-score-shapes-the-narrative-of-digger</loc>
     <news:news>
       <news:publication>
@@ -9,61 +20,6 @@
       </news:publication>
       <news:publication_date>2026-11-14T12:00:24Z</news:publication_date>
       <news:title>Epitaph for a Dying World: How Cosmo Sheldrake’s Score Shapes the Narrative of Digger</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/another-side-of-paul-simon</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:30:39Z</news:publication_date>
-      <news:title>Another Side of Paul Simon</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/festival-review-damnation-festival-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T12:49:49Z</news:publication_date>
-      <news:title>Festival Review: Damnation Festival 2026</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-beaks</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T12:00:42Z</news:publication_date>
-      <news:title>Start Listening To: Beaks</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/yhwh-nailgun-magazine-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T12:00:09Z</news:publication_date>
-      <news:title>YHWH Nailgun - Magazine Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/yoo-doo-right-build-and-rest-by-the-shepherds-light-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T09:00:24Z</news:publication_date>
-      <news:title>Yoo Doo Right - Build and Rest by the Shepherd’s Light Review</news:title>
     </news:news>
   </url>
 </urlset>
