@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/30-years-of-trainspotting-how-the-films-soundtrack-gained-a-life-of-its-own</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T16:00:12Z</news:publication_date>
+      <news:title>30 Years of Trainspotting: How the Film&#x27;s Soundtrack Gained a Life of Its Own</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-fiona-apple-ranked</loc>
     <news:news>
       <news:publication>
