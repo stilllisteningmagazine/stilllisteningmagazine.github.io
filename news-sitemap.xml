@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/inside-irelands-exciting-new-music-scene</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T13:00:57Z</news:publication_date>
+      <news:title>Inside Ireland’s Exciting New Music Scene</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/every-killers-albums-ranked-worst-to-best</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T12:00:16Z</news:publication_date>
+      <news:title>Every The Killers Albums Ranked Worst To Best</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/30-years-of-trainspotting-how-the-films-soundtrack-gained-a-life-of-its-own</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T16:00:12Z</news:publication_date>
+      <news:title>30 Years of Trainspotting: How the Film&#x27;s Soundtrack Gained a Life of Its Own</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-fiona-apple-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T15:00:41Z</news:publication_date>
+      <news:title>The 25 Best Songs by Fiona Apple, Ranked</news:title>
+    </news:news>
+  </url>
 </urlset>
