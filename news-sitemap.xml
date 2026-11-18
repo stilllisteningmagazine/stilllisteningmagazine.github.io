@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-kathleen-frances</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T12:00:28Z</news:publication_date>
+      <news:title>Start Listening To: Kathleen Frances</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-godzooki</loc>
     <news:news>
       <news:publication>
@@ -42,28 +53,6 @@
       </news:publication>
       <news:publication_date>2026-11-17T13:00:05Z</news:publication_date>
       <news:title>The 25 Best Songs by Taylor Swift, Ranked</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/inside-irelands-exciting-new-music-scene</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T13:00:57Z</news:publication_date>
-      <news:title>Inside Ireland’s Exciting New Music Scene</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/every-killers-albums-ranked-worst-to-best</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T12:00:16Z</news:publication_date>
-      <news:title>Every The Killers Albums Ranked Worst To Best</news:title>
     </news:news>
   </url>
 </urlset>
