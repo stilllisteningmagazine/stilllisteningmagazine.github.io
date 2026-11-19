@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/lex-walton-ultimate-love-forever-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:27:33Z</news:publication_date>
+      <news:title>Lex Walton - Ultimate Love Forever Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/u2-carnaval-de-luz-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:27:18Z</news:publication_date>
+      <news:title>U2 - Carnaval De Luz Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-tges-first-fifty-at-oslo</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:04:23Z</news:publication_date>
+      <news:title>Gig Review: TGE’s First Fifty At Oslo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-kathleen-frances</loc>
     <news:news>
       <news:publication>
@@ -9,50 +42,6 @@
       </news:publication>
       <news:publication_date>2026-11-18T12:00:28Z</news:publication_date>
       <news:title>Start Listening To: Kathleen Frances</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-godzooki</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T16:46:08Z</news:publication_date>
-      <news:title>Start Listening To: Godzooki</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/trooper-salute-tomodachi-ga-imashita-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T13:35:34Z</news:publication_date>
-      <news:title>Trooper Salute - Tomodachi ga Imashita Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/andy-stott-late-loop-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T13:25:34Z</news:publication_date>
-      <news:title>Andy Stott - Late Loop Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-taylor-swift-ranked</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T13:00:05Z</news:publication_date>
-      <news:title>The 25 Best Songs by Taylor Swift, Ranked</news:title>
     </news:news>
   </url>
 </urlset>
