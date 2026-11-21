@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/ten-years-of-bon-ivers-22-a-million-growing-older-in-an-uncertain-world</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T13:29:24Z</news:publication_date>
+      <news:title>Ten Years of Bon Iver’s 22, A Million: Growing Older in an Uncertain World</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/features/every-radiohead-album-ranked-worst-to-best</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T13:22:04Z</news:publication_date>
+      <news:title>Every Radiohead Album Ranked From Worst To Best</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-horrid-fog</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T13:00:48Z</news:publication_date>
+      <news:title>Start Listening To: Horrid Fog</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/sadurn-the-underworld-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T12:47:18Z</news:publication_date>
+      <news:title>Sadurn - The Underworld Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/the-family-battenberg-super-deluxe-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T12:23:40Z</news:publication_date>
+      <news:title>The Family Battenberg – Super Deluxe Review</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.stilllisteningmagazine.com/reviews/django-django-doveland-review</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T12:15:48Z</news:publication_date>
+      <news:title>Django Django - Doveland Review</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-radio-free-alice-at-electric-ballroom</loc>
     <news:news>
       <news:publication>
