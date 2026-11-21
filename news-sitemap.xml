@@ -77,37 +77,4 @@
       <news:title>Gig Review: Radio Free Alice at Electric Ballroom</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/lex-walton-ultimate-love-forever-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:27:33Z</news:publication_date>
-      <news:title>Lex Walton - Ultimate Love Forever Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/u2-carnaval-de-luz-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:27:18Z</news:publication_date>
-      <news:title>U2 - Carnaval De Luz Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-tges-first-fifty-at-oslo</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:04:23Z</news:publication_date>
-      <news:title>Gig Review: TGE’s First Fifty At Oslo</news:title>
-    </news:news>
-  </url>
 </urlset>
