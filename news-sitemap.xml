@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://www.stilllisteningmagazine.com/features/the-25-best-songs-by-arctic-monkeys-ranked</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Still Listening Magazine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-22T13:30:02Z</news:publication_date>
+      <news:title>The 25 Best Songs By Arctic Monkeys, Ranked</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.stilllisteningmagazine.com/features/ten-years-of-bon-ivers-22-a-million-growing-older-in-an-uncertain-world</loc>
     <news:news>
       <news:publication>
@@ -64,17 +75,6 @@
       </news:publication>
       <news:publication_date>2026-11-21T12:15:48Z</news:publication_date>
       <news:title>Django Django - Doveland Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-radio-free-alice-at-electric-ballroom</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-20T12:19:12Z</news:publication_date>
-      <news:title>Gig Review: Radio Free Alice at Electric Ballroom</news:title>
     </news:news>
   </url>
 </urlset>
