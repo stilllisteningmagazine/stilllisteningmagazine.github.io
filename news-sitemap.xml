@@ -77,15 +77,4 @@
       <news:title>Start Listening To: Party Dozen</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/gig-reviews/gig-review-youth-of-today-at-the-dome</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T16:14:35Z</news:publication_date>
-      <news:title>Gig Review: Youth of Today At The Dome</news:title>
-    </news:news>
-  </url>
 </urlset>
