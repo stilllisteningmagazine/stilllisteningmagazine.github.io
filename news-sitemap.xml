@@ -88,26 +88,4 @@
       <news:title>Gig Review: Youth of Today At The Dome</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/start-listening-to/start-listening-to-mel-raeburn</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T12:00:30Z</news:publication_date>
-      <news:title>Start Listening To: Mel Raeburn</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/features/from-lightsaber-to-storm-yung-lean-in-three-music-videos-2014-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-23T12:00:05Z</news:publication_date>
-      <news:title>From Lightsaber to Storm: Yung Lean in Three Music Videos, 2014-2026</news:title>
-    </news:news>
-  </url>
 </urlset>
