@@ -110,26 +110,4 @@
       <news:title>From Lightsaber to Storm: Yung Lean in Three Music Videos, 2014-2026</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/heavensouls-cantu-of-the-sower-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:14:33Z</news:publication_date>
-      <news:title>heavensouls - cantu of the sower Review</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://www.stilllisteningmagazine.com/reviews/piss-you-made-me-skin-on-linen-review</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Still Listening Magazine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-22T22:08:53Z</news:publication_date>
-      <news:title>PISS - you made me / skin on linen Review</news:title>
-    </news:news>
-  </url>
 </urlset>
